@@ -10160,6 +10160,11 @@ h3 {
     font-size: 1.5rem;
   }
 }
+
+.masthead-social {
+  margin-top: 30px;
+}
+
 .portfolio .portfolio-item {
   cursor: pointer;
   position: relative;
@@ -10263,4 +10268,5 @@ form .row:first-child .floating-label-form-group {
 
 .about img {
   width: 100%;
+  box-shadow: 0 0 10px 3px darkgrey;
 }
